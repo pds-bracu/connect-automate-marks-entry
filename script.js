@@ -4,10 +4,10 @@
 // It is recommended to reopen CONNECT in a new tab after 2/3 runs
 
 // DO NOT scroll while the script runs
-// Otherwise it may change dropdown selection
+// Otherwise, it may change the dropdown selection
 
 // paste and overwrite lines 11 to 33 with the cell content copied from gsheet
-// remove the quotations ("....") after pasting
+// remove the quotations ("....") at lines 11 and 33 after pasting
 degree = 'Undergrad';
 semester = 'FALL 2025';
 course_code = 'CSE250';
